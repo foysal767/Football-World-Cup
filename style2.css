@@ -360,7 +360,9 @@ Tablet Device
   }
 
   .up-details {
+    margin-bottom: 15px;
     margin-left: 0%;
+    height: auto;
   }
   .view {
     display: block;
